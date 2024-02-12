@@ -1,0 +1,17 @@
+{
+    "product":
+    [
+       {
+        "id":1,
+        "rating":3,
+        "comment":"Review 1 for product id 1",
+        "productId":1
+       },
+       {
+        "id":1,
+        "rating":3,
+        "comment":"Review 1 for product id 1",
+        "productId":1
+       }
+    ]
+}
